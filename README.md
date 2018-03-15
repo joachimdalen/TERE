@@ -52,6 +52,7 @@ Setup instructions will come at a later point.
     The project period is limited to ten weeks, the functionality of the application should be contained to a reasonable level to it is possible to complete within the time frame.
 
 - Emotional Factor
+
     The application should have a pleasant design, the music and sound effects should be chosen carefully, so players will want to return to it after playing for the first time.
 
 - Robustness 
