@@ -56,7 +56,7 @@ Marathon mode, which is the default mode and was already operational.
 
 One Lone Coder’s implementation, nor the NES Tetris version had a ghost piece, that is, a preview of where the current piece will land given its current translation and rotation. We added one to our game, since it is common in most modern Tetris games to include it.
 
-*This project was also reviewed in one of "One Lone Coder"'s YouTube videos, click [here]([YouTube](https://youtu.be/ZxMx2NUT5sw?t=1m23s))*
+*This project was also reviewed in one of "One Lone Coder"'s YouTube videos, click [here](https://youtu.be/ZxMx2NUT5sw?t=1m23s)*
 
 ### Cedits
 I also need to give credits to my project partners Jan Øvind Kruse and Erik Tokheim.
